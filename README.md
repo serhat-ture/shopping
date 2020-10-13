@@ -1,3 +1,17 @@
+-create animated menu and switch between pages
+-send an HTTP request 
+-show a loading gift while that's loading
+-create your own Mock API
+-display all of that product information using mockAPI
+-create basic form
+
+
+Mock API
+
+https://mockapi.io/
+create an account and set up the API
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
