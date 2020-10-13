@@ -1,9 +1,16 @@
--create animated menu and switch between pages
--send an HTTP request 
--show a loading gift while that's loading
--create your own Mock API
--display all of that product information using mockAPI
--create basic form
+Follow the instructions ;
+
+create animated menu and switch between pages
+
+send an HTTP request 
+
+show a loading gift while that's loading
+
+create your own Mock API
+
+display all of that product information using mockAPI
+
+create basic form
 
 
 Mock API
