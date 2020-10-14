@@ -1,3 +1,12 @@
+Shopping Store  
+
+An application that allows users to view their favorite products
+
+ Built with HTML, Tailwind CSS, Mockapi, and React
+
+
+
+
 Follow the instructions ;
 
 create animated menu and switch between pages
